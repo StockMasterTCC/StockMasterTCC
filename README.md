@@ -1,4 +1,4 @@
-# Projeto de TCC: StockMaster
+# StockMaster: Gestão de Estoque para Pequenos Negócios
 **Contribuidores:**
 
 <ul>
