@@ -7,10 +7,10 @@ create database usuario;
 use usuario;
 
 create table usuario (
-    nome varchar(50) NOT NULL,
-    sobrenome varchar(50) NOT NULL,
-    email varchar(255) NOT NULL,
-    senha varchar(255) NOT NULL
+    nome varchar(50) ,
+    sobrenome varchar(50),
+    email varchar(255),
+    senha varchar(255)
 );
 insert into usuario (nome, sobrenome, email, senha)
 VALUES

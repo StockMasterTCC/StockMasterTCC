@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - StockMaster</title>
     <link rel="shortcut icon" href="img/stockmasterIcon.png" type="image/x-icon">
-    <link rel="stylesheet" href="stylesheets/login-cadastro.css">
+    <link rel="stylesheet" href="stylesheet/login-cadastro.css">
 </head>
 <body>
     <article>
