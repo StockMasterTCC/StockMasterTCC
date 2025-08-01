@@ -13,5 +13,4 @@ create table usuario (
     senha varchar(255)
 );
 insert into usuario (nome, sobrenome, email, senha)
-VALUES
-('admin', 'administrando', 'admin@email.com', 'admin2345');
+select * from usuario

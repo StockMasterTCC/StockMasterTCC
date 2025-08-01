@@ -91,6 +91,40 @@ article {
     background-color: #f9f9f9;
     text-align: center;
     margin: 2rem 10rem;
-    padding: 1.25rem 10rem 50rem 10rem;
+    padding: 1.25rem 10rem 5rem 10rem;
     border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.campo-mercadoria input[type="text"] {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    line-height: 1.5;
+}
+
+.campo-mercadoria input[type="date"] {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    line-height: 1.5;
+}
+
+input[type="submit"] {
+    background-color: #0e93ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
 }

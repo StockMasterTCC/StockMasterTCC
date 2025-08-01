@@ -6,7 +6,7 @@
     </header>
     <div id="pesquisar">
         <form method="get" action="">
-            <input type="text" name="search" placeholder="Pesquisar...">
+        <input type="text" name="search" id="pesquisar" placeholder="Pesquisar...">
         </form>
     </div>
     <nav class="navbar">
