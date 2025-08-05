@@ -10,8 +10,8 @@
         </form>
     </div>
     <nav class="navbar">
-        <a href="stockmaster.php">Cadastrar mercadoria</a>
-        <a href="lista_funcionario.php">Lista de funcionários</a>
-        <a href="gestao.php">Gestão de entrada/saída de itens</a>
-        <a href="cadastro_funcionario.php">Cadastro de funcionário</a>
+        <a href="Stockmaster.php">Cadastrar mercadoria</a>
+        <a href="ListaFuncionario.php">Lista de funcionários</a>
+        <a href="Gestao.php">Gestão de entrada/saída de itens</a>
+        <a href="CadastroFuncionario.php">Cadastro de funcionário</a>
     </nav>

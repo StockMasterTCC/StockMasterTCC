@@ -1,5 +1,5 @@
 <?php
-    include_once "helpers/url.php";
+    include_once "helpers/Url.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +15,7 @@
 </head>
 <body>
     <?php
-    include_once "templates/header.php";
+    include_once "templates/Header.php";
     ?>
     <main>
         <h2>Gestão de Entrada e Saída de Itens</h2>

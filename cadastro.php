@@ -19,7 +19,7 @@
             <?php endif; ?>
             <form method="POST" action="">
                 <?php
-    include "conectar.mysql.php";
+    include "Conectar.mysql.php";
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $email = trim($_POST["email"] ?? '');
     $senha = $_POST["senha"] ?? '';

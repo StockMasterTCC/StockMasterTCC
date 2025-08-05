@@ -12,9 +12,9 @@
         <div class="logo">
             <img src="img/stockmasterLogo.png" alt="Logo da StockMaster">
         </div>
-        <form method="POST" action="stockmaster.php">
+        <form method="POST" action="Stockmaster.php">
             <?php
-        include_once "conectar.mysql.php";
+        include_once "Conectar.mysql.php";
         // Exibe mensagens de erro, se houver
         if (isset($_GET['erro'])) {
             $erros = [

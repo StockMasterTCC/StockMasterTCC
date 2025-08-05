@@ -1,5 +1,5 @@
 <?php
-include_once "helpers/url.php";
+include_once "helpers/Url.php";
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -17,7 +17,7 @@ include_once "helpers/url.php";
 
 <body>
     <?php
-    include_once "templates/header.php";
+    include_once "templates/Header.php";
     ?>
     <main> 
         <!-- Conteúdo principal aqui -->

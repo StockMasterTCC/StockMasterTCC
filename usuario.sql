@@ -1,7 +1,3 @@
-/*
- * para criar o banco de dados e a tabela de usuários
- * com um usuário administrador. (TESTE)
- */
 DROP DATABASE IF EXISTS usuario;
 create database usuario;
 use usuario;
